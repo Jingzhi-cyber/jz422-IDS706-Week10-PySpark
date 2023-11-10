@@ -1,5 +1,5 @@
 # IDS706-Week10-PySpark Data Processing Project
-[![CI](https://github.com/Jingzhi-cyber/jz422-IDS706-Week10-PySpark/actions/workflows/cicd.yml/badge.svg)](https://github.com/Jingzhi-cyber/jz422-IDS706-PySpark/actions/workflows/cicd.yml)
+[![CI](https://github.com/Jingzhi-cyber/jz422-IDS706-Week10-PySpark/actions/workflows/cicd.yml/badge.svg)](https://github.com/Jingzhi-cyber/jz422-IDS706-Week10-PySpark/actions/workflows/cicd.yml)
 
 This repository sets up an environment on CodeSpaces and uses GitHub Actions to run a Makefile for the following commands: make install, make test, make format, and make lint.
 
